@@ -2,7 +2,7 @@
 
 A powerful, single-file RAG (Retrieval-Augmented Generation) chat interface with local AI model support, built-in knowledge base indexing, and conversation memory.
 
-## Features
+## Features(The most easiest way to have a minimal interface for your ollama AI Models)
 
 ✨ **RAG Knowledge Base** — Upload and index text/code files; AI automatically retrieves relevant context when answering questions  
 🤖 **Local AI Models** — Connect to local LLMs (Ollama, LM Studio, etc.) or cloud APIs  
