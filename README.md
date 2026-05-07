@@ -1,5 +1,5 @@
 # NEXUS
-
+👾Both for Mobile and Dekstop
 A powerful, single-file RAG (Retrieval-Augmented Generation) chat interface with local AI model support, built-in knowledge base indexing, and conversation memory.
 
 ## Features(The most easiest way to have a minimal interface for your ollama AI Models)
