@@ -20,11 +20,11 @@ Simply open `index.html` in your browser. No build process, no dependencies need
 
 ```bash
 # Clone or download this repo
-git clone https://github.com/yourusername/nexus.git
-cd nexus
+git clone https://github.com/user-sb737/nexus.git
+cd nexus-v8
 
 # Open in browser
-open index.html
+open index-1.html
 ```
 
 ## Configuration
