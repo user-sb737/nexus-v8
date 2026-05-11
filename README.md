@@ -95,7 +95,7 @@ NEXUS v41 implements a **Tool-First Hybrid Architecture**:
 ```
                     ┌──────────────────────────────────┐
   User Input ──────►│   detectIntent()  (pure JS)      │
-                    │   Zero LLM cost, zero latency     │
+                    │   Zero LLM cost, zero latency    |
                     └──────────────┬───────────────────┘
                                    │
                ┌───────────────────┼───────────────────┐
